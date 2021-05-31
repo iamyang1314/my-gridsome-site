@@ -13,12 +13,6 @@ module.exports = {
         path: '/users/:id',
         component: './src/templates/User.vue'
       }
-    ],
-    BlogList:[
-      {
-        path:'/details/:id',
-        component: './src/templates/Details.vue'
-      }
     ]
   }
 }
